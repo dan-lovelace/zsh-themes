@@ -13,6 +13,6 @@ Custom Z Shell themes to enhance your terminal
 
 # Themes
 
-## emotion
+### emotion
 
 ![emotion](emotion/preview.png?raw=true)
