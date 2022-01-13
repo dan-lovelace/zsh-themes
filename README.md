@@ -4,7 +4,7 @@ Custom Z Shell themes to enhance your terminal
 
 # Usage
 
-## oh-my-zsh (https://ohmyz.sh/)
+### oh-my-zsh (https://ohmyz.sh/)
 
 1. Find the `*.zsh-theme` file you'd like to use
 1. Copy the file to your `~/.oh-my-zsh/themes` directory
