@@ -2,7 +2,7 @@
 
 Custom Z Shell themes to enhance your terminal
 
-# Usage
+## Usage
 
 ### oh-my-zsh (https://ohmyz.sh/)
 
@@ -11,7 +11,7 @@ Custom Z Shell themes to enhance your terminal
 1. Open your `~/.zshrc` file
 1. Change the `ZSH_THEME` variable to the name of the theme file excluding the file extension (i.e. `ZSH_THEME="emotion"`)
 
-# Themes
+## Themes
 
 ### emotion
 
