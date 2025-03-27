@@ -14,14 +14,20 @@ function random_error() {
         echo $active[$index]
 }
 
-COLOR_SCHEME="fish"
+COLOR_SCHEME="slate_lt"
 
 case "$COLOR_SCHEME" in
-	slate)
+	slate_dk)
 		local bar_color="$FG[235]"
 		local dir_color="$FG[252]"
 		local git_color="$FG[066]"
 		local now_color="$FG[255]"
+		;;
+	slate_lt)
+		local bar_color="$FG[235]"
+		local dir_color="$FG[244]"
+		local git_color="$FG[066]"
+		local now_color="$FG[101]"
 		;;
 	fish)
 		local bar_color="$FG[105]"
@@ -30,10 +36,10 @@ case "$COLOR_SCHEME" in
 		local now_color="$FG[007]"
 		;;
 	*)
-		local bar_color="$FG[009]"
+		local bar_color="$FG[160]"
 		local dir_color="$FG[033]"
-		local git_color="$FG[011]"
-		local now_color="$FG[229]"
+		local git_color="$FG[112]"
+		local now_color="$FG[099]"
 		;;
 esac
 
